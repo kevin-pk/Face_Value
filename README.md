@@ -9,4 +9,5 @@ Key Features:
 The goal of this project is to promote fairness and equity in loan approval systems by providing actionable recommendations for bias mitigation based on robust data-driven insights, leveraging the Diversity in Faces dataset and methodologies.
 
 ![image](https://github.com/user-attachments/assets/a640c9ea-9c2f-4f3f-a9d1-c3ac6a94b61c)
+
 https://ar5iv.labs.arxiv.org/html/1901.10436 
