@@ -1,2 +1,2 @@
 # Face_Value
- By leveraging machine learning and data analysis, it aims to uncover potential disparities and explore how these factors influence decision-making.
+This project investigates bias in loan approval processes by analyzing facial measurements and key factors such as skin color. By leveraging machine learning and data analysis, it aims to uncover potential disparities and explore how these factors influence decision-making. The goal is to promote fairness and transparency in financial systems by identifying and addressing sources of bias.
